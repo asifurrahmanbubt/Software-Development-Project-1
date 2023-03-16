@@ -6,8 +6,8 @@ Project Title : Create a Calender Program using C Programming Language
 
 Project Supervisor :
 
-MD Ashraful Islam
-Assistant Professor, Department of Computer Science & Engineering.
+MD Ashraful Islam,
+Assistant Professor, Department of Computer Science & Engineering,
 Bangladesh University of Business and Technology. 
 
 Project Member: 
