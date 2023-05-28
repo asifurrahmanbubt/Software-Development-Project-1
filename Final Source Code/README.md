@@ -1,4 +1,4 @@
-#### This is our final source code for the Software Development Project-1 Course
+# This is our final source code for the Software Development Project-1 Course
 
 This GitHub repository contains a C program that implements a task management system for a specific month. The program allows users to add, modify, and delete tasks for each day of the month. It also provides features for viewing tasks, searching for tasks by description, saving tasks to a file, and loading tasks from a file.
 
@@ -12,7 +12,7 @@ Please note that this code is provided as-is and may require additional modifica
 
 We have successfully tested and run the program. 
 
-## Note: Before Running the code, Please save a txt file as "filename" in the folder where you will save the code. 
+### Note: Before Running the code, Please save a txt file as "filename" in the folder where you will save the code. 
 
 The concepts of C programming used in this code are:
 
@@ -29,7 +29,7 @@ The concepts of C programming used in this code are:
 11. Input/output
 
 
-#Disclaimer: 
+#### Disclaimer: 
 
 The code provided in this GitHub repository is intended for educational and demonstration purposes only. While efforts have been made to ensure the accuracy and reliability of the code, it is important to note that it may contain bugs, vulnerabilities, or other issues. 
 
