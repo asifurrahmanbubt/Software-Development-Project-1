@@ -29,7 +29,7 @@ The concepts of C programming used in this code are:
 11. Input/output
 
 
-#### Disclaimer: 
+## Disclaimer: 
 
 The code provided in this GitHub repository is intended for educational and demonstration purposes only. While efforts have been made to ensure the accuracy and reliability of the code, it is important to note that it may contain bugs, vulnerabilities, or other issues. 
 
